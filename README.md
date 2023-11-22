@@ -18,5 +18,10 @@ From the terminal, run:
 
 `npm run start`
 
+## Link
 
+The following video shows the application's GET, POST, PUT, and DELETE routes for `PRODUCTS`,`TAGS` & `CATEGORIES` tested with Insomnia:
 
+https://watch.screencastify.com/v/FIvoZmaEJWC1yumuFhnt
+ 
+ Github: <a href="https://github.com/ocarly/EcommBackEnd">ocarly</a>
